@@ -1,0 +1,124 @@
+body {background-color: #aaaaaa;}
+.imgMain{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    background-image: ("myBackground.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+  #content{
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  #middle{
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+
+  #nav-td{
+    width: 250px; text-align: center;
+  }
+
+  body {
+    background-image: url(myBackground.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+
+#content {
+    margin: 20px auto;
+    padding: 10px;
+}
+
+.float-left {
+    float: left;
+    margin-right: 15px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 15px;
+}
+
+table img {
+    max-width: 100%;
+    height: auto;
+}
+
+table {
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+
+.centered {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td {
+    padding: 10px;
+    vertical-align: top;
+}
+
+.flag-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
+.image-container {
+    text-align: center; 
+}
+
+table {
+    margin: 20px auto;
+    border-collapse: collapse;
+    width: 550px;
+}
+
+table img {
+    max-width: 100%;
+    height: auto;
+}
+
+td {
+    padding: 10px;
+    vertical-align: top;
+}
+
+.image-container {
+    text-align: center; 
+}
+
+table {
+    margin: 20px auto;
+    border-collapse: collapse;
+    width: 550px; 
+}
+
+table img {
+    max-width: 100%;
+    height: auto;
+}
+
+td {
+    padding: 10px;
+    vertical-align: top;
+}
+
+.center-container {
+    text-align: center;
+}
